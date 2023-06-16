@@ -1,0 +1,19 @@
+h1
+{
+color:aqua;
+word-spacing: 4px;
+letter-spacing: 2px;
+background-color: azure;
+text-align: center;
+}
+
+p
+{
+line-height:3;
+text: indent 80px; ;
+}
+
+a
+{
+    text-decoration: none;
+}
